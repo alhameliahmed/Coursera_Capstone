@@ -1,0 +1,7 @@
+Battle of neighborhoods week 4 assignment 
+
+in this report we will discuss the possibility to initiate a coffee shop, and open it the borough of Brooklyn. We will look for the best area which can be a potential to open a new brand of coffee shop that can compete in this area. No doubt that data science is an important discipline to start our research and find a clue to help us decide where can we open our brand of coffee shop that can gain good reputation and establish it self among other brands. 
+Th main idea behind this report is to explore the area of Brooklyn in New York city and find the best area to open our venture. There many theories that advice about opening your new venture, first some advice to open your new shop in area that doesn’t serve this kind of business so you could in this condition establish your self and avoid competitions. Others advice that opening your business in area which share the same kind of business is better. For example, in our case we want to open a new coffee shop, it is better to open it in area with established coffee shops.
+So in our case we will look for area that can be crowded with coffee shops, this can help us to find the suitable area that can give us good start to compete and gain some customers. Of course it is a must to use foursquare to explore the area and find the suitable place.
+So the business problem here is exploring Brooklyn to find a suitable neighborhood to open our new brand of coffee shop that can establish itself and compete among near by coffeshops.
+
